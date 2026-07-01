@@ -37,13 +37,18 @@
 
 ### 🚀 Featured Projects
 
-#### 🎬 [FTHRClips](https://fthrclips.com) &nbsp;·&nbsp; `fthrclips.com`
+#### 🎬 FTHRClips — _Creator & Developer_
 
-Privacy-first, high-performance game clipping software — entirely local, with **no accounts, no telemetry, no network calls**.
-Captures any framerate/resolution straight from the GPU via **DXGI**, offloads compression to hardware encoders (**NVENC / AMF / QuickSync**), and stores encoded frames in a **lock-free ring buffer** so pressing the hotkey saves your clip instantly with no re-encode.
+[![Website](https://img.shields.io/badge/Website-fthrclips.com-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://fthrclips.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FTHR--Community-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FTHR-Community/FTHR-Community)
+
+Privacy-first, high-performance game clipping software that I design and build — entirely local, with **no accounts, no telemetry, no network calls**.
+It captures any framerate/resolution straight from the GPU via **DXGI**, offloads compression to hardware encoders (**NVENC / AMF / QuickSync**), and stores encoded frames in a **lock-free ring buffer** so pressing the hotkey saves your clip instantly with no re-encode.
 **Stack:** C++ capture & encoding pipeline · PyQt6 UI · shared-memory IPC.
 
-#### 🧒 [LearnE](https://learne.kids) &nbsp;·&nbsp; `learne.kids`
+#### 🧒 LearnE — _Developer_
+
+[![Website](https://img.shields.io/badge/Website-learne.kids-00B894?style=flat-square&logo=googlechrome&logoColor=white)](https://learne.kids)
 
 A safe, AI-powered knowledge app for kids. Children ask questions by **voice, photo, or sound**, and LearnE answers in an age-appropriate, friendly way — turning every question into real discovery, with **child safety and privacy** at its core.
 
