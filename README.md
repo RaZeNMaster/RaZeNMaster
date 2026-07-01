@@ -9,8 +9,9 @@
 ### 🧑‍💻 About
 
 - ⚡ Focused on **Web · Backend · Mobile**
-- 🛠️ Comfortable across the **JavaScript / TypeScript** ecosystem, **Python**, **Java** & **Go**
+- 🛠️ Comfortable across the **JavaScript / TypeScript** ecosystem, **Python**, **Java**, **Go** & **C++**
 - 📱 Building cross-platform apps with **React Native** & **Expo**
+- 🔒 Passionate about **privacy-first**, high-performance software
 - 🌱 Always learning and sharpening my craft
 
 ---
@@ -24,11 +25,27 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎬 [FTHRClips](https://fthrclips.com) &nbsp;·&nbsp; `fthrclips.com`
+
+Privacy-first, high-performance game clipping software — entirely local, with **no accounts, no telemetry, no network calls**.
+Captures any framerate/resolution straight from the GPU via **DXGI**, offloads compression to hardware encoders (**NVENC / AMF / QuickSync**), and stores encoded frames in a **lock-free ring buffer** so pressing the hotkey saves your clip instantly with no re-encode.
+**Stack:** C++ capture & encoding pipeline · PyQt6 UI · shared-memory IPC.
+
+#### 🧒 [LearnE](https://learne.kids) &nbsp;·&nbsp; `learne.kids`
+
+A safe, AI-powered knowledge app for kids. Children ask questions by **voice, photo, or sound**, and LearnE answers in an age-appropriate, friendly way — turning every question into real discovery, with **child safety and privacy** at its core.
 
 ---
 
@@ -46,20 +63,10 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- Replace these placeholders with your real repositories as you publish them. -->
-
-| Project | Description |
-| --- | --- |
-| 🌐 [**web-app**](https://github.com/RaZeNMaster/web-app) | A web application — *coming soon* |
-| ⚙️ [**api-service**](https://github.com/RaZeNMaster/api-service) | A backend API service — *coming soon* |
-| 📱 [**mobile-app**](https://github.com/RaZeNMaster/mobile-app) | A cross-platform mobile app — *coming soon* |
-
----
-
 ### 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-weissheimer.tom%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:weissheimer.tom@gmail.com)
+[![FTHRClips](https://img.shields.io/badge/FTHRClips-fthrclips.com-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://fthrclips.com)
+[![LearnE](https://img.shields.io/badge/LearnE-learne.kids-00B894?style=flat-square&logo=googlechrome&logoColor=white)](https://learne.kids)
 
-<!-- Website coming soon -->
+<!-- Personal website coming soon -->
