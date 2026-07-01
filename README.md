@@ -41,6 +41,7 @@
 
 [![Website](https://img.shields.io/badge/Website-fthrclips.com-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://fthrclips.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FTHR--Community-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FTHR-Community/FTHR-Community)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fthrclips)
 
 Privacy-first, high-performance game clipping software that I design and build — entirely local, with **no accounts, no telemetry, no network calls**.
 It captures any framerate/resolution straight from the GPU via **DXGI**, offloads compression to hardware encoders (**NVENC / AMF / QuickSync**), and stores encoded frames in a **lock-free ring buffer** so pressing the hotkey saves your clip instantly with no re-encode.
@@ -71,6 +72,8 @@ A safe, AI-powered knowledge app for kids. Children ask questions by **voice, ph
 ### 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-weissheimer.tom%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:weissheimer.tom@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Message_me-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/609373923263512578)
+[![FTHR Discord](https://img.shields.io/badge/FTHR_Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fthrclips)
 [![FTHRClips](https://img.shields.io/badge/FTHRClips-fthrclips.com-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://fthrclips.com)
 [![LearnE](https://img.shields.io/badge/LearnE-learne.kids-00B894?style=flat-square&logo=googlechrome&logoColor=white)](https://learne.kids)
 
