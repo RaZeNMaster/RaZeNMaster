@@ -58,12 +58,6 @@ A safe, AI-powered knowledge app for kids. Children ask questions by **voice, ph
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-swart-seven-66.vercel.app/api?username=RaZeNMaster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tom's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-swart-seven-66.vercel.app/api/top-langs/?username=RaZeNMaster&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaZeNMaster&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
